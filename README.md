@@ -8,3 +8,7 @@ Hva om jeg får det til?
 
 # Hva hvis denne er annerledes
 Nå burde det funke
+
+
+
+
