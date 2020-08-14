@@ -5,4 +5,10 @@
 Nå blir pappa **stolt**, hihi
 ### Dette er spennende...
 Hva om jeg får det til?
-Laster denne opp?
+
+# Hva hvis denne er annerledes
+Nå burde det funke
+
+
+
+
